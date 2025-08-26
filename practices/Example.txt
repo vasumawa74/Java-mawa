@@ -1,0 +1,2 @@
+Hi, this is an example of creating a file through file handling
+**THIS TEXT WAS EDITED LATER AND NOT WRIITEN THROUGH CODE**
