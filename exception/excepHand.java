@@ -2,6 +2,7 @@ public class excepHand
 {
     public static void main(String[]args)
     {
+        @SuppressWarnings("unused")
         int a=10,b=5,x,c=5,y;
 
         try

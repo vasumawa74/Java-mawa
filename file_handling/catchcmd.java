@@ -3,14 +3,15 @@
 public class catchcmd
 {
     public static void main (String[]args)
-    {
-        int valid,invalid;
+    {   
+        @SuppressWarnings("unused")
+        int valid,invalid,number;
         valid=invalid=0;
         for(int i=0;i<args.length;i++)
         {
             try
             {
-             int number=Integer.parseInt(args[i]);
+             number=Integer.parseInt(args[i]);
             }
             catch(NumberFormatException e)
             {
