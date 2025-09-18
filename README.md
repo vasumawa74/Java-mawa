@@ -6,6 +6,7 @@ A collection of Java programs demonstrating core concepts of Java programming, i
 - Exception Handling
 - File Handling
 - Multithreading
+- Understanding Enum
 - Logic Building
 - Practice Problems
 
