@@ -9,12 +9,12 @@ public class basic
  {
     int i;
     Status s = Status.success;
-    Status[] a = Status.values();
+    Status[] a = Status.values(); //to print all values of enum
     System.out.println(s); // +"\n"+s.ordinal() to print positions of the named constant
     System.out.println(a[0]);
     System.out.println();
 
-    //to print all values
+    //to print order of all values
 
     for(i=0;i<a.length;i++)
     {
