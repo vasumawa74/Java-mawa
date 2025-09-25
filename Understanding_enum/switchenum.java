@@ -1,5 +1,5 @@
 package Understanding_enum;
-//An enum is a way to create a list of fixed values that a variable can have. Here we are using if condition to give output
+//An enum is a way to create a list of fixed values that a variable can have. Here we are using switch condition to give output
 
 enum Status {entry , dahi , chawal , mustard , exit;} //named constant
 
