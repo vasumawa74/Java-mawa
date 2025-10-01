@@ -1,3 +1,5 @@
+package interfaces;
+
 //A good example to understand Interface
 
 interface computer

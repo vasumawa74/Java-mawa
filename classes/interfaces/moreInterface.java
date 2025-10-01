@@ -1,3 +1,5 @@
+package interfaces;
+
 //more details about interface function
 
 // class - class -> extends
