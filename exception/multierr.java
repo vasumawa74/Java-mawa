@@ -3,7 +3,7 @@
 public class multierr 
 {
    public static void main (String [] args)
-   {
+   {@SuppressWarnings("unused")
     int a, b=10;
 
     int num[]=new int[5];
