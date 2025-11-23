@@ -1,6 +1,6 @@
 //abstract class and anonymous class
 
- abstract class A   //cannot create any object
+ abstract class A   //cannot create any object 
 { 
     public abstract void show() ;
 }
